@@ -1312,9 +1312,10 @@ To use the current port, you must be in a port's directory.</screen>
             at <link xlink:href="https://github.com/macports/macports-guide" />.
             </para>
 
-            <para>GitHub will likely show you a message that you recently created
-            a branch on your fork, and asking if you would like to create a pull
-            request. Accept this suggestion.
+            <para>GitHub will likely show you a message that a branch on your 
+            forked repo, with your <replaceable>branch-name</replaceable>, "had 
+            recent pushes". There is a green button, 
+            <guibutton>Compare & pull request</guibutton>. Push this button.
             </para>
 
             <para>If GitHub does not show you that message, create the pull request
